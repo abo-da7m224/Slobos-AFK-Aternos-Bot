@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "dvrteam.aternos.me",
-    "port": 38158,
+    "port": "38158",
     "version": "26.1.1",
     "try-creative": false
   },
